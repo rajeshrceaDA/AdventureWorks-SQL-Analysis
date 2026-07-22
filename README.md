@@ -232,15 +232,13 @@ Execution Order
 ```
 
 ## About me
-=========================================================
-Analysis  : Product Performance Analysis
-Project   : AdventureWorks SQL Data Analysis
-Author    : Rajesh Kumar
-Database  : AdventureWorks
-SQL Engine: MySQL
+>Author    : Rajesh Kumar
+>Analysis  : Product Performance Analysis
+>Project   : AdventureWorks SQL Data Analysis
+>Database  : AdventureWorks
+>SQL Engine: MySQL
 
 Objective:
-Evaluate product performance using revenue,
-order quantity, and business metrics.
+>Evaluate product performance using revenue,
+>order quantity, and business metrics.
 
-=========================================================
