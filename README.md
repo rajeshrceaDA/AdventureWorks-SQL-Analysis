@@ -232,10 +232,10 @@ Execution Order
 ```
 
 ## About me
->Author    : Rajesh Kumar
->Analysis  : Product Performance Analysis
->Project   : AdventureWorks SQL Data Analysis
->Database  : AdventureWorks
+>Author    : Rajesh Kumar, 
+>Analysis  : Product Performance Analysis, 
+>Project   : AdventureWorks SQL Data Analysis, 
+>Database  : AdventureWorks, 
 >SQL Engine: MySQL
 
 Objective:
