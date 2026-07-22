@@ -231,7 +231,7 @@ Execution Order
 10_salesperson_analysis.sql
 ```
 
-/*
+## About me
 =========================================================
 Analysis  : Product Performance Analysis
 Project   : AdventureWorks SQL Data Analysis
@@ -244,4 +244,3 @@ Evaluate product performance using revenue,
 order quantity, and business metrics.
 
 =========================================================
-*/
