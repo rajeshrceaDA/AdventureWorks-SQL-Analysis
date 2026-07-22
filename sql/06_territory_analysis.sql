@@ -49,3 +49,34 @@ ORDER BY Total_Revenue DESC;
 -- performing territory, while Canada achieved high revenue
 -- with a comparatively smaller customer base, indicating
 -- strong customer value
+
+-- ==========================================================
+-- Business Recommendations
+-- ==========================================================
+
+-- 1. Continue investing in high-performing territories such
+--    as Southwest (US) and Canada.
+--
+-- 2. Analyze successful sales strategies from high-performing
+--    regions and apply them to lower-performing territories.
+--
+-- 3. Monitor Average Order Value across territories to
+--    identify high-value customer segments.
+--
+-- 4. Review marketing and sales initiatives in lower-
+--    performing territories to identify growth opportunities.
+
+-- ==========================================================
+-- Executive Conclusion
+-- ==========================================================
+
+-- Territory analysis shows that revenue distribution varies
+-- significantly across regions.
+--
+-- North American territories are the primary contributors to
+-- business revenue, while international markets provide
+-- additional growth opportunities.
+--
+-- Regional performance analysis enables management to make
+-- informed decisions regarding sales strategy, resource
+-- allocation, and market expansion.
