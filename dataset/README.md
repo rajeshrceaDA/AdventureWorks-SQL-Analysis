@@ -2,7 +2,7 @@
 
 ## Dataset Information
 
-### Database: AdventureWorks
+- Database: AdventureWorks
 - SQL Engine: MySQL
 - Domain: Retail Sales
 - Analysis Period: July 2001 – July 2004
